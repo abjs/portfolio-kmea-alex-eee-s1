@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-kmea-alex-eee-s1/static/css/main.d33dc395.chunk.css",
+    "main.js": "/portfolio-kmea-alex-eee-s1/static/js/main.33522b61.chunk.js",
+    "main.js.map": "/portfolio-kmea-alex-eee-s1/static/js/main.33522b61.chunk.js.map",
+    "runtime-main.js": "/portfolio-kmea-alex-eee-s1/static/js/runtime-main.ed76365e.js",
+    "runtime-main.js.map": "/portfolio-kmea-alex-eee-s1/static/js/runtime-main.ed76365e.js.map",
+    "static/js/2.5630dbf5.chunk.js": "/portfolio-kmea-alex-eee-s1/static/js/2.5630dbf5.chunk.js",
+    "static/js/2.5630dbf5.chunk.js.map": "/portfolio-kmea-alex-eee-s1/static/js/2.5630dbf5.chunk.js.map",
+    "index.html": "/portfolio-kmea-alex-eee-s1/index.html",
+    "static/css/main.d33dc395.chunk.css.map": "/portfolio-kmea-alex-eee-s1/static/css/main.d33dc395.chunk.css.map",
+    "static/js/2.5630dbf5.chunk.js.LICENSE.txt": "/portfolio-kmea-alex-eee-s1/static/js/2.5630dbf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed76365e.js",
+    "static/js/2.5630dbf5.chunk.js",
+    "static/css/main.d33dc395.chunk.css",
+    "static/js/main.33522b61.chunk.js"
+  ]
+}
